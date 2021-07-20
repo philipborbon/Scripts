@@ -46,7 +46,7 @@ class Pluralize {
         "sleep", "smoke", "smoking", "snow", "soap", "software", "soil",
         "sorrow", "soup", "speed", "spelling", "steam", "stuff", "stupidity",
         "sunshine", "symmetry", "tennis", "thirst", "thunder", "toast",
-        "tolerance", "toys", "traffic", "transporation", "travel", "trust", "understanding",
+        "tolerance", "toys", "traffic", "transportation", "travel", "trust", "understanding",
         "unemployment", "unity", "validity", "veal", "vengeance", "violence"
     )
 

@@ -1,5 +1,3 @@
-package com.nimbusit.firedepartment.util
-
 /**
  * Base on the work of
  *
